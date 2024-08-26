@@ -1,0 +1,35 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "ad.toutiao.com",
+        "adsmind.apdcdn.tc.qq.com",
+        "adsmind.gdtimg.com",
+        "adsmind.tc.qq.com",
+        "adsmind.ugdtimg.com",
+        "adv-adlog.variflight.com",
+        "adv-ads.variflight.com",
+        "app-ad.variflight.com",
+        "dsp.toutiao.com",
+        "livep.l.t002.ottcn.com",
+        "pangolin.snssdk.com",
+        "pgdt.gtimg.cn",
+        "pgdt.gtimg.com",
+        "pgdt.ugdtimg.com",
+        "splashqqlive.gtimg.com",
+        "wa.gtimg.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "e.qq.com",
+        "gdt.qq.com",
+        "l.qq.com",
+        "pangolin-sdk-toutiao-b.com",
+        "pangolin-sdk-toutiao.com",
+        "pangolin-sdk-toutiao1.com"
+      ]
+    }
+  ],
+  "version": 1
+}
