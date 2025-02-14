@@ -16,4 +16,4 @@ https://raw.githubusercontent.com/EAlyce/conf/main/Rule/OpenAI.list
 https://raw.githubusercontent.com/Flying-Pika/rule-set/refs/heads/main/clash/direct.yaml
 https://raw.githubusercontent.com/Flying-Pika/rule-set/refs/heads/main/clash/proxy.yaml
 https://raw.githubusercontent.com/Flying-Pika/rule-set/refs/heads/main/clash/reject.yaml
-https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-Clash.yaml
+
