@@ -1,0 +1,19 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "e1.tls.ink",
+        "metadata-static.plex.tv",
+        "metadata.provider.plex.tv",
+        "pubsub.plex.tv"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "keeflys.com",
+        "plex.tv"
+      ]
+    }
+  ],
+  "version": 2
+}

@@ -1,0 +1,13 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "pangolin-sdk-toutiao-b.com",
+        "pangolin-sdk-toutiao.com",
+        "pangolin-sdk-toutiao1.com",
+        "pglstatp-toutiao.com"
+      ]
+    }
+  ],
+  "version": 2
+}

@@ -1,0 +1,28 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "account.synology.com",
+        "checkip.synology.com",
+        "checkipv6.synology.com",
+        "checkport.synology.com",
+        "ddns.synology.com",
+        "e1c.tls.ink",
+        "sns.synology.com",
+        "v4.plex.tv"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "224678.xyz",
+        "amyconvert.com",
+        "daddytractor.cc",
+        "i234.me",
+        "nexconvert.com",
+        "pfoleb.lol",
+        "qeuhco.xyz"
+      ]
+    }
+  ],
+  "version": 2
+}
