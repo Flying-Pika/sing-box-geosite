@@ -1,6 +1,11 @@
 {
   "rules": [
     {
+      "domain": [
+        "access.mypikpak.com"
+      ]
+    },
+    {
       "domain_suffix": [
         "pangolin-sdk-toutiao-b.com",
         "pangolin-sdk-toutiao.com",
