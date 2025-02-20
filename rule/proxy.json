@@ -2,10 +2,7 @@
   "rules": [
     {
       "domain": [
-        "e1.tls.ink",
-        "metadata-static.plex.tv",
-        "metadata.provider.plex.tv",
-        "pubsub.plex.tv"
+        "e1.tls.ink"
       ]
     },
     {

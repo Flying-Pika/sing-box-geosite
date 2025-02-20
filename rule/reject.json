@@ -2,7 +2,8 @@
   "rules": [
     {
       "domain": [
-        "access.mypikpak.com"
+        "access.mypikpak.com",
+        "dns.weixin.qq.com.cn"
       ]
     },
     {
