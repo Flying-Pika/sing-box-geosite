@@ -16,4 +16,5 @@ https://raw.githubusercontent.com/EAlyce/conf/main/Rule/OpenAI.list
 https://raw.githubusercontent.com/Flying-Pika/rule-set/refs/heads/main/clash/direct.list
 https://raw.githubusercontent.com/Flying-Pika/rule-set/refs/heads/main/clash/proxy.list
 https://raw.githubusercontent.com/Flying-Pika/rule-set/refs/heads/main/clash/reject.list
+https://raw.githubusercontent.com/ConnersHua/RuleGo/refs/heads/master/Surge/Ruleset/Direct+.list
 
