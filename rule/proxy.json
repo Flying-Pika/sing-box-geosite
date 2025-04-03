@@ -1,13 +1,7 @@
 {
   "rules": [
     {
-      "domain": [
-        "e1.tls.ink"
-      ]
-    },
-    {
       "domain_suffix": [
-        "emby.wtf",
         "keeflys.com",
         "plex.tv"
       ]
