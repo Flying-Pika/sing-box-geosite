@@ -1,6 +1,11 @@
 {
   "rules": [
     {
+      "domain": [
+        "services.googleapis.cn​"
+      ]
+    },
+    {
       "domain_suffix": [
         "keeflys.com",
         "plex.tv"
