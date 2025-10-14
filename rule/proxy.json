@@ -2,6 +2,7 @@
   "rules": [
     {
       "domain": [
+        "dash.xns.one​",
         "services.googleapis.cn​"
       ]
     },
