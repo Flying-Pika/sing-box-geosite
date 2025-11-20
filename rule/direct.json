@@ -2,13 +2,13 @@
   "rules": [
     {
       "domain": [
+        "4.s4pcu4tacst8.ucb7tzepetrsn1.223789.xyz",
         "account.synology.com",
         "checkip.synology.com",
         "checkipv6.synology.com",
         "checkport.synology.com",
         "ddns.synology.com",
         "e1c.tls.ink",
-        "e1c1.tls.ink",
         "sns.synology.com",
         "v4.plex.tv"
       ]
