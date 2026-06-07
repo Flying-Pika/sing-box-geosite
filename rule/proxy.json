@@ -2,13 +2,19 @@
   "rules": [
     {
       "domain": [
+        "ci.android.com",
+        "clientservices.googleapis.com",
         "dash.xns.one​",
+        "dl.google.com",
+        "dl.l.google.com",
+        "redirector.gvt1.com",
         "services.googleapis.cn​",
         "update.googleapis.com"
       ]
     },
     {
       "domain_suffix": [
+        "blog.google",
         "keeflys.com",
         "plex.tv"
       ]
