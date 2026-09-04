@@ -4,7 +4,9 @@
       "domain": [
         "4.s4pcu4tacst8.ucb7tzepetrsn1.223789.xyz",
         "account.synology.com",
+        "checkip.dyndns.org",
         "checkip.synology.com",
+        "checkipv6.quickconnect.to",
         "checkipv6.synology.com",
         "checkport.synology.com",
         "ddns.synology.com",
@@ -26,7 +28,7 @@
         "emby.kaiserver.uk",
         "emby.raydoom.tk",
         "embyxiaoya.laogl.top",
-        "sns.synology.com",
+        "global.quickconnect.to",
         "v4.plex.tv"
       ]
     },
